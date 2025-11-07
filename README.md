@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on research and development of multi-agent educational systems combining LangGraph, CrewAI, and Large Action Models for adaptive learning and multimodal tutoring.<br><br>👯 I’m looking to collaborate on projects at the intersection of AI education, voice-based interaction, and explainable multi-agent systems.<br> on distributed GPU clusters.<br><br>🌱 I’m currently learning advanced reinforcement learning, voice synthesis control (SSML, prosodic parameters), and efficient LLM deployment.<br><br>💬 Ask me about LangGraph, CrewAI, RAG pipelines, function calling, or multimodal educational agents.
+🔭 I’m currently working on research and development of multi-agent educational systems combining LangGraph, CrewAI, and Large Action Models for adaptive learning and multimodal tutoring.<br><br>👯 I’m looking to collaborate on projects at the intersection of AI education, voice-based interaction, and explainable multi-agent systems.<br><br>🌱 I’m currently learning advanced reinforcement learning, voice synthesis control (SSML, prosodic parameters), and efficient LLM deployment.<br><br>💬 Ask me about LangGraph, CrewAI, RAG pipelines, function calling, or multimodal educational agents.
 
 
 ## 🌐 Socials:
