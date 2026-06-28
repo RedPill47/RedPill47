@@ -159,21 +159,11 @@ Self-hosted infrastructure on repurposed hardware — Docker, Portainer, NGINX P
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 &nbsp;
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
 <br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=RedPill47&theme=dark&hide_border=false" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=RedPill47&theme=dark&hide_border=false" />
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedPill47&theme=github-compact&hide_border=true" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RedPill47&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
 </div>
