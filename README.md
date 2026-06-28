@@ -1,18 +1,179 @@
-# 💫 About Me:
-🔭 I’m currently working on research and development of multi-agent educational systems combining LangGraph, CrewAI, and Large Action Models for adaptive learning and multimodal tutoring.<br><br>👯 I’m looking to collaborate on projects at the intersection of AI education, voice-based interaction, and explainable multi-agent systems.<br><br>🌱 I’m currently learning advanced reinforcement learning, voice synthesis control (SSML, prosodic parameters), and efficient LLM deployment.<br><br>💬 Ask me about LangGraph, CrewAI, RAG pipelines, function calling, or multimodal educational agents.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hedi+Tebourbi;Research+Assistant+%C2%B7+Uni+Luxembourg;Multi-Agent+AI+%7C+Low-Resource+NLP+%7C+Voice+AI;6+Peer-Reviewed+Papers+as+an+Undergrad" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hedit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Red_Pill_4) 
+<br/>
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RedPill47&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>Building multi-agent AI systems, low-resource NLP pipelines, and voice AI: <br/>from supercomputer-scale data harmonization to interactive Socratic tutoring platforms.</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RedPill47&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/hedit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="https://x.com/@Red_Pill_4"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=Tb6iPjcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="https://orcid.org/0009-0006-1282-2820"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=for-the-badge" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RedPill47&color=58A6FF&style=flat-square&label=Profile+Views" />&nbsp;
+<img src="https://img.shields.io/badge/Publications-6_peer--reviewed-2ea44f?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Reviewer-5_venues-f48024?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/ACM-Student_Member-1769AA?style=flat-square" />
+
+</div>
+
+<br/>
+
+---
+
+## 🔬 Research
+
+**Currently** at [DCS, University of Luxembourg](https://www.uni.lu/fstm-en/): building LLM annotation pipelines and RAG evaluation benchmarks for **Luxembourgish**, a low-resource language. Pipelines orchestrate OpenAI, Anthropic, and DeepSeek APIs with self-hosted Langfuse observability on Docker.
+
+**At [LISER](https://www.liser.lu/)** (Mar–Jun 2026): Architected the MIGLINK University Harmonization pipeline: mapped **594M LinkedIn education records** to ROR-standardized identities across 63M+ raw institution strings on the [MeluXina supercomputer](https://www.luxprovide.lu/meluxina/) (SLURM). Cascading matching (exact → suffix-normalized → LLM) achieved **100% precision / 94.8% recall** using Qwen3-32B via vLLM.
+
+**At [AI Robolab, Uni Luxembourg](https://airobolab.uni.lu/)** (Sep 2024–Mar 2026): Led development of a Luxembourgish AI tutoring app, designed open-source LLM benchmarking pipelines, co-authored 5 peer-reviewed papers, and represented the lab at CALM '25 demoing Furhat and QTrobot.
+
+---
+
+## 📄 Publications
+
+| Venue | Title | Link |
+|:------|:------|:----:|
+| **ACM CUI '26** | *How Authoritative Can Synthetic Voices Sound? Prosodic Manipulation and Perceptual Evaluation Across Two TTS Platforms* | — |
+| **AAMAS '25** | *Personalized Language Learning: A Multi-Agent System Leveraging LLMs for Teaching Luxembourgish* | [PDF](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p3032.pdf) |
+| **MobiSPC '25** | *Artificial Intelligence Agents for Personalized Adaptive Learning* | [DOI](https://doi.org/10.1016/j.procs.2025.07.179) |
+| **MDPI Applied Sciences '25** | *BPMN-Based Design of Multi-Agent Systems: Personalized Language Learning Workflow Automation* | [DOI](https://www.mdpi.com/2078-2489/16/9/809) |
+| **EUSPN '25** | *Can Visual Attention Serve as an Explanation?* | [DOI](https://doi.org/10.1016/j.procs.2025.10.200) |
+| **CALM '25** | *Augmenting an LLM-Based Tutor Agent with a Large Action Model for Multimodal Interaction* | [DOI](https://doi.org/10.1007/978-3-032-20548-3_3) |
+
+> 🔎 &nbsp;Peer reviewer for **AAMAS '26** · **CALM '25 / '26** · **ArtInHCI '25** · **MobiSPC '26**
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [ATLAS — Adaptive Tutoring & Learning via AI Scaffolding](https://github.com/RedPill47/Agentic_Socratic_NLP_Tutor-final)
+
+EIF/I²TL grant-funded Socratic tutoring platform. Hybrid CrewAI multi-agent architecture, RAG over educator materials, adaptive learner profiling, and a live teacher dashboard with misconception tracking. [Featured by FSTM](https://www.uni.lu/fstm-en/news/when-the-question-is-the-answer-why-the-best-ai-chatbots-shouldnt-give-you-solutions/).
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C3483?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2C3E50?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [LuxDiag-RAG](https://github.com/RedPill47/DiagLux-RAG)
+
+Diagnostic RAG evaluation for Luxembourgish RC (640 questions, 16 texts). Compared BM25 variants, multilingual-E5, BGE-M3, and hybrid fusion across GPT-5.5, DeepSeek v4-pro, Claude Opus 4.8, and Sonnet 4.6. 197 automated tests. Paper submitted to LaTeLL 2026.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![BM25](https://img.shields.io/badge/BM25-NLP-2C3E50?style=flat-square)
+![BGE-M3](https://img.shields.io/badge/BGE--M3-Dense_Retrieval-1A5276?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Encoder vs. LLM Annotation](https://github.com/RedPill47/Lux-ano-pip)
+
+LoRA fine-tuned LuxemBERT, XLM-RoBERTa, and ModernBERT vs. multi-LLM pipelines across 11 diagnostic categories. Encoders outperform LLMs (38.7% macro-F1 vs. 30.7%). Full training on a 4GB GTX 1050 Ti in under 2 hours. Established a negative result on ensemble pseudo-labelling.
+
+![LoRA](https://img.shields.io/badge/LoRA-fine--tuning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XLM-RoBERTa](https://img.shields.io/badge/XLM--RoBERTa-412991?style=flat-square&logo=huggingface&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇱🇺 [LetzLearn](https://github.com/RedPill47/LetzLearn-AI-Powered-Luxembourgish-Language-Learning-App)
+
+AI-powered Luxembourgish learning app with 5 learning modes (conversation, grammar, vocab, quiz, immersion), SM-2 spaced repetition, ElevenLabs TTS/STT for pronunciation practice, RAG-grounded responses, and real-time LLM streaming.
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS%2FSTT-000000?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AIA-PAL](https://github.com/RedPill47/ALIA-PAL)
+
+Multi-agent system (LangGraph + CrewAI) that dynamically adapts course material and quizzes in real time based on student performance. Resulted in two peer-reviewed publications at AAMAS '25 and MobiSPC '25.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C3483?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 HomeLab Server
+
+Self-hosted infrastructure on repurposed hardware — Docker, Portainer, NGINX Proxy Manager, AdGuard Home (network-wide DNS filtering), Tailscale mesh VPN, and n8n workflow automation. Sandbox for open-source AI tools and services.
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-0A0A0A?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,haskell&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+&nbsp; `LangGraph` `CrewAI` `LangChain` `vLLM` `LoRA` `RAG` `Langfuse`
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,html,css&theme=dark" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,sqlite,supabase,firebase&theme=dark" />
+
+**Infrastructure & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,vercel,netlify,linux&theme=dark" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedPill47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RedPill47&theme=dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RedPill47&theme=github-compact&hide_border=true" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RedPill47&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
