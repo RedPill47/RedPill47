@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hedi+Tebourbi;Research+Assistant+%C2%B7+Uni+Luxembourg;Multi-Agent+AI+%7C+Low-Resource+NLP+%7C+Voice+AI;6+Peer-Reviewed+Papers+as+an+Undergrad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hedi+Tebourbi;Research+Assistant+%C2%B7+Uni+Luxembourg;BSc+BiCS+%E2%86%92+MSc+Info+%26+Computer+Sciences;Multi-Agent+AI+%7C+Low-Resource+NLP+%7C+Voice+AI;6+Peer-Reviewed+Papers+as+an+Undergrad;Ask+my+portfolio+%E2%86%92+redpill47.github.io" alt="Typing SVG" />
 
 <br/>
 
 <p>Building multi-agent AI systems, low-resource NLP pipelines, and voice AI: <br/>from supercomputer-scale data harmonization to interactive Socratic tutoring platforms.</p>
 
+<p>💬 <b><a href="https://redpill47.github.io">redpill47.github.io</a></b> — my portfolio, styled as a chat with Claude. Ask it anything about me.</p>
+
 <br/>
 
+<a href="https://redpill47.github.io"><img src="https://img.shields.io/badge/Portfolio-Chat_with_it-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/hedit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>&nbsp;
 <a href="https://x.com/@Red_Pill_4"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" /></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=Tb6iPjcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" /></a>&nbsp;
@@ -17,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RedPill47&color=58A6FF&style=flat-square&label=Profile+Views" />&nbsp;
 <img src="https://img.shields.io/badge/Publications-6_peer--reviewed-2ea44f?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/Reviewer-5_venues-f48024?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Reviewer-6_venues-f48024?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/ACM-Student_Member-1769AA?style=flat-square" />
 
 </div>
@@ -28,7 +31,7 @@
 
 ## 🔬 Research
 
-**Currently** at [DCS, University of Luxembourg](https://www.uni.lu/fstm-en/): building LLM annotation pipelines and RAG evaluation benchmarks for **Luxembourgish**, a low-resource language. Pipelines orchestrate OpenAI, Anthropic, and DeepSeek APIs with self-hosted Langfuse observability on Docker.
+**Currently** at [DCS, University of Luxembourg](https://www.uni.lu/fstm-en/): building LLM annotation pipelines and RAG evaluation benchmarks for **Luxembourgish**, a low-resource language. Pipelines orchestrate OpenAI, Anthropic, and DeepSeek APIs with self-hosted Langfuse observability on Docker. Freshly graduated from the BiCS bachelor (2023–2026), starting an **MSc in Information and Computer Sciences** at the University of Luxembourg this autumn.
 
 **At [LISER](https://www.liser.lu/)** (Mar–Jun 2026): Architected the MIGLINK University Harmonization pipeline: mapped **594M LinkedIn education records** to ROR-standardized identities across 63M+ raw institution strings on the [MeluXina supercomputer](https://www.luxprovide.lu/meluxina/) (SLURM). Cascading matching (exact → suffix-normalized → LLM) achieved **100% precision / 94.8% recall** using Qwen3-32B via vLLM.
 
@@ -40,14 +43,14 @@
 
 | Venue | Title | Link |
 |:------|:------|:----:|
-| **ACM CUI '26** | *How Authoritative Can Synthetic Voices Sound? Prosodic Manipulation and Perceptual Evaluation Across Two TTS Platforms* | — |
+| **ACM CUI '26** | *How Authoritative Can Synthetic Voices Sound? Prosodic Manipulation and Perceptual Evaluation Across Two TTS Platforms* | [DOI](https://doi.org/10.1145/3816046.3816298) |
 | **AAMAS '25** | *Personalized Language Learning: A Multi-Agent System Leveraging LLMs for Teaching Luxembourgish* | [PDF](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p3032.pdf) |
 | **MobiSPC '25** | *Artificial Intelligence Agents for Personalized Adaptive Learning* | [DOI](https://doi.org/10.1016/j.procs.2025.07.179) |
-| **MDPI Applied Sciences '25** | *BPMN-Based Design of Multi-Agent Systems: Personalized Language Learning Workflow Automation* | [DOI](https://www.mdpi.com/2078-2489/16/9/809) |
+| **MDPI Information '25** | *BPMN-Based Design of Multi-Agent Systems: Personalized Language Learning Workflow Automation* | [DOI](https://www.mdpi.com/2078-2489/16/9/809) |
 | **EUSPN '25** | *Can Visual Attention Serve as an Explanation?* | [DOI](https://doi.org/10.1016/j.procs.2025.10.200) |
 | **CALM '25** | *Augmenting an LLM-Based Tutor Agent with a Large Action Model for Multimodal Interaction* | [DOI](https://doi.org/10.1007/978-3-032-20548-3_3) |
 
-> 🔎 &nbsp;Peer reviewer for **AAMAS '26** · **CALM '25 / '26** · **ArtInHCI '25** · **MobiSPC '26**
+> 🔎 &nbsp;Peer reviewer for **AAMAS '26** · **CALM '25 / '26** · **ArtInHCI '25** · **MobiSPC '26** · **EUSPN '26**
 
 ---
 
